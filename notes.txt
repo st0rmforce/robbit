@@ -1,0 +1,7 @@
+create tarball of latest upload dir
+check against previous
+  if identical remove latest
+  else add to database
+load latest tarball into run dir
+increment timesRun of latest
+run
